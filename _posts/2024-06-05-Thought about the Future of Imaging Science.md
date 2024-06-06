@@ -10,6 +10,8 @@ The continuous improvement of computation is largely due to Moore’s Law, which
 
 ***My grand thesis for the future centers on the eventual end of Moore’s Law and its profound impact on the field of science, particularly Imaging Science. When the rapid advancement of computational power slows, the consequences will be enormous, significantly altering the trajectory of scientific research. Imaging Science, which relies heavily on powerful computation for data analysis and visualization, will face substantial challenges and shifts in direction as a result.***
 
+## Why I think this Scenario will come to Fruition 
+
 Claiming that Moore’s Law is dead has become somewhat cliché, with every semiconductor company attributing their poor quarterly numbers to some aspect of it. However, the reality is that the factors driving Moore’s Law are diminishing, and our current solutions to circumvent this are faltering. The easy gains in semiconductor physics and fabrication are over, leading to increasingly sporadic and slow progress.
 
 Historically, the greatest driver of semiconductor performance gains was the ability to create smaller patterns through advanced lithography systems. By transitioning to smaller wavelengths, lithography systems allowed designs to shrink with minimal changes, providing almost free performance gains. However, this trend started to falter with the delayed introduction of extreme ultraviolet (EUV) systems. Despite eventually reaching production levels, EUV required significant design modifications, marking a departure from the past where simply reducing the wavelength sufficed.
@@ -21,6 +23,8 @@ The exponential growth of GPUs and their computing power is often cited as a cou
 Another argument is that software improvements will compensate for hardware limitations. Yet, as Charles Leiserson's work suggests, while algorithmic improvements can yield substantial gains, they also encounter diminishing returns over time. Additionally, the shift from a CPU-dominated era to one with diverse custom chips will lead to uneven and sporadic improvements.
 
 In summary, all the low-hanging fruit in semiconductor advancement has been picked along with most of the medium-hanging fruit, and as a result, the rate of progress in computation will inevitably slow. This impending slowdown presents significant challenges for fields dependent on continual computational advancements.
+
+## Impacts and Opportunity
 
 After discussing the waning power of computational advancements, I'll explain the potential impacts of this trend. The most obvious effect will be on Artificial Intelligence (AI) and Machine Learning (ML). These models are extremely computationally intensive for both training and inference. As computational power diminishes, the appeal and feasibility of these models will decrease. Already, the economic costs to train some foundation models are staggering, reaching into the billions, if not trillions. Additionally, powering data centers—both in terms of high-quality data and actual energy—poses significant challenges, alongside various intellectual property issues. As Bill Daly puts it, “Deep Learning was constrained by hardware, and will be constrained by hardware”.
 
