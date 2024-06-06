@@ -38,6 +38,8 @@ However, if computational power starts to decline, the progress in Imaging Scien
 
 Additionally, the burgeoning field of neuromorphic image sensors and other exotic sensing paradigms will be affected. These sensor modalities rely heavily on intense computational power and complex algorithms to derive insights. While algorithmic improvements could partially mitigate the impact, progress would be sporadic rather than the steady advancements previously enabled by hardware improvements.
 
+## Conclusion
+
 In summary, the slowdown in computational power will create substantial challenges for these cutting-edge techniques and trends, potentially stalling their development and limiting their applications.
 
 This raises the question of what’s next. I believe the future will consist of two main thrusts: one practical and the other more speculative. The practical push will focus on efficiency, maximizing the utility of our computational resources. In the past, the emphasis has been on enabling new capabilities without much regard for cost. This mindset will shift, with computational techniques undergoing intense scrutiny for cost-effectiveness. For instance, we might see approaches similar to Daly’s visual difference predictors and the concept of visual equivalence, identifying which computational elements offer the most significant perceptual and insightful benefits.
