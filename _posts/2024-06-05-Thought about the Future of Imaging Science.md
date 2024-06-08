@@ -48,7 +48,7 @@ In summary, the slowdown in computational power will create substantial challeng
 
 This raises the question of what’s next. I believe the future will consist of two main thrusts: one practical and the other more speculative. The practical push will focus on efficiency, maximizing the utility of our computational resources. In the past, the emphasis has been on enabling new capabilities without much regard for cost. This mindset will shift, with computational techniques undergoing intense scrutiny for cost-effectiveness. For instance, we might see approaches similar to Daly’s visual difference predictors and the concept of visual equivalence, identifying which computational elements offer the most significant perceptual and insightful benefits.
 
-![Visual Equivalence](assets/55-Figure3.6-1.png)
+![Visual Equivalence](../assets/55-Figure3.6-1.png)
 
 
 The speculative thrust involves redefining the role of imagery in Imaging Science. Traditionally, imagery has been treated as a data source from which insights are extracted. The next evolution may involve using imagery as a tool for thinking itself. Cognition doesn’t occur solely inside one’s head; it often involves external tools like pencils, paper, or software. Since perception is inherently a form of thinking, optimizing imagery and representations to enhance cognitive processes is a natural progression. This could lead to new ways of using images to accelerate understanding and innovation, transforming how we interact with and derive insights from visual data. Perhaps the word tool is a little weak, but rather imagery could be a new medium for thought borrowing from Alan Kay.
