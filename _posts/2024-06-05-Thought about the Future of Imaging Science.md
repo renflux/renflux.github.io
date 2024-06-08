@@ -10,7 +10,7 @@ The continuous improvement of computation is largely due to Moore’s Law, which
 
 ***My grand thesis for the future centers on the eventual end of Moore’s Law and its profound impact on the field of science, particularly Imaging Science. When the rapid advancement of computational power slows, the consequences will be enormous, significantly altering the trajectory of scientific research. Imaging Science, which relies heavily on powerful computation for data analysis and visualization, will face substantial challenges and shifts in direction as a result.***
 
-## Why and How this Will Happen
+## How and Why This Will Happen
 
 Claiming that Moore’s Law is dead has become somewhat cliché, with every semiconductor company attributing their poor quarterly numbers to some aspect. However, the reality is that the factors driving Moore’s Law are diminishing, and our current solutions to circumvent this are faltering. The easy gains in semiconductor physics and fabrication are over, which could lead to increasingly sporadic and slow progress.
 
@@ -20,7 +20,9 @@ Historically, the greatest driver of semiconductor performance gains was the abi
 
 This shift is evident with the new ASML lithography machines, which are now changing optical elements rather than wavelengths. Lowering the numerical aperture (NA) still meets Rayleigh's criterion for smaller dimensions but introduces greater complexity to semiconductor processes. This Faustian bargain has yet to convince skeptics of its long-term value. The latest high-NA system, which was supposed to restore Intel's dominance, is facing significant challenges, indicating that the tailwind driving computational power is weakening.
 
-The exponential growth of GPUs and their respective computing power is often cited as a counterargument to this trend. However, this growth represents a clever workaround rather than a true solution. GPUs have optimized performance by lowering clock rates and increasing memory to enhance parallelization, an engineering tradeoff rather than a breakthrough in capability. Instead of the general purpose computing that CPU's provide, the advancement comes in the form of extreme customization for specific tasks. Most of the gains are attributed to architectural improvements either in the form of numerical representations or sparsity in neural networks. This is a marked departure from the historical trend of improvement as a result of hardware improvements. While this approach has been highly successful, as seen with NVIDIA's impressive performance, it too will eventually hit a wall as further shrinking of chip dimensions becomes impossible. 
+![NA](https://www.researchgate.net/publication/340349172/figure/fig2/AS:875500406841344@1585746971044/Rayleigh-Resolution-Equation.png)
+
+The exponential growth of GPUs and their respective computing power is often cited as a counterargument to this trend. However, this growth represents a clever workaround rather than a true solution. GPUs have optimized performance by lowering clock rates and increasing memory to enhance parallelization, an engineering tradeoff rather than a breakthrough in capability. Instead of the general-purpose computing that CPUs provide, the advancement comes in the form of extreme customization for specific tasks. Most of the gains are attributed to architectural improvements either in the form of numerical representations or sparsity in neural networks. This is a marked departure from the historical trend of improvement as a result of hardware improvements. While this approach has been highly successful, as seen with NVIDIA's impressive performance, it too will eventually hit a wall as further shrinking of chip dimensions becomes impossible. 
 
 ![GPU growth](https://blogs.nvidia.com/wp-content/uploads/2023/08/New-Single-GPU-advances-final-scaled.jpg)
 
@@ -46,7 +48,8 @@ In summary, the slowdown in computational power will create substantial challeng
 
 This raises the question of what’s next. I believe the future will consist of two main thrusts: one practical and the other more speculative. The practical push will focus on efficiency, maximizing the utility of our computational resources. In the past, the emphasis has been on enabling new capabilities without much regard for cost. This mindset will shift, with computational techniques undergoing intense scrutiny for cost-effectiveness. For instance, we might see approaches similar to Daly’s visual difference predictors and the concept of visual equivalence, identifying which computational elements offer the most significant perceptual and insightful benefits.
 
-![Visual Equivalence](https://d3i71xaburhd42.cloudfront.net/1a45ce57576d476ae6a45b015abd6139de94d681/27-Figure1.5-1.png)
+![Visual Equivalence](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cs.cornell.edu%2F~kb%2Fprojects%2FVEP%2F&psig=AOvVaw20GtEmBfJXwpLsEmh-q5ea&ust=1717907547243000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiQ6LqWy4YDFQAAAAAdAAAAABAV)
+
 
 The speculative thrust involves redefining the role of imagery in Imaging Science. Traditionally, imagery has been treated as a data source from which insights are extracted. The next evolution may involve using imagery as a tool for thinking itself. Cognition doesn’t occur solely inside one’s head; it often involves external tools like pencils, paper, or software. Since perception is inherently a form of thinking, optimizing imagery and representations to enhance cognitive processes is a natural progression. This could lead to new ways of using images to accelerate understanding and innovation, transforming how we interact with and derive insights from visual data. Perhaps the word tool is a little weak, but rather imagery could be a new medium for thought borrowing from Alan Kay.
 
